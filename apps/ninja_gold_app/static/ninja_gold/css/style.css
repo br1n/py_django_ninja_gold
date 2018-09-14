@@ -1,0 +1,50 @@
+.container h1 {
+    text-align: center;
+}
+
+.gold-display p {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 0%;
+  
+}
+
+.location-container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.location {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.location h2 {
+    font-size: 25px;
+}
+
+.location h3 {
+    font-size: 15px;
+}
+
+.activities {
+    height: 200px; 
+    overflow-y: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1%;
+
+} 
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
